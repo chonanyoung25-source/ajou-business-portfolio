@@ -11,7 +11,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@google/genai": "^0.1.0",
+    "@google/genai": "^1.0.0",
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.344.0",
