@@ -1,0 +1,7 @@
+{
+  "name": "Jo Nan-young - Ajou University Business Portfolio",
+  "description": "Professional personal website for Jo Nan-young, a Business Administration student at Ajou University, featuring a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
